@@ -30,7 +30,7 @@
 
 
 ```bash
-git clone https://github.com/cymilad/Spam-SMS
+git clone https://github.com/cyber-BOOY/Spam-SMS
 cd Spam-SMS
 pip3 install requests
 python3 sms.py
